@@ -1,41 +1,34 @@
-
 ---
-
-name: "🐛 Bug Report"
-about: "Reportar un error para ayudarnos a mejorar el proyecto."
-title: "[BUG] - Descripción corta del error"
+name: "Bug report"
+about: "Crea un reporte de un error para ayudarnos a mejorar el proyecto."
+title: "[BUG] Descripción breve"
 labels: bug
-assignees: ""
+assignees: ''
 
 ---
 
-## 🐛 Bug Report
+**Describe el error**
+Una descripcion clara y concisa del error.
 
-### Descripción
-
-Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
-
-### Pasos para reproducir
+**Reproducir**
+Pasos para reproducir el comportamiento
 
 1. Ir a '...'
-2. Hacer clic en '...'
-3. Describir cualquier otra acción hasta que ocurra el problema.
-4. Error que aparece: '...'
+2. Hacer clic en '....'
+3. Desplazarse hacia '....'
+4. Ver error
 
-### Comportamiento esperado
+**Comportamiento esperado**
+Una descripcion clara y concisa de lo que esperabas que sucediera.
 
-Describe lo que esperabas que ocurriera al realizar los pasos anteriores.
+**Capturas de pantalla**
+Si es posible, añade capturas de pantalla para ayudar a explicar el problema.
 
-### Capturas de pantalla o registros
+**Entorno (por fvor completar la siguiente informacion):**
 
-Si es posible, añade capturas de pantalla o registros de errores.
+* Sistema operativo: [e.g. Windows, macOS]
+* Navegador [e.g. Chrome, Safari]
+* Version del software [e.g. 22]
 
-### Entorno
-
-- Sistema operativo: [p. ej., Windows 10, macOS Catalina]
-- Navegador y versión: [p. ej., Chrome 87, Safari 14]
-- Versión del proyecto: [p. ej., 1.0.0]
-
-### Información adicional
-
-Cualquier otra información relevante.
+**Informacion adicional**
+Añade cualquier otro contexto sobre el problema aqui.
